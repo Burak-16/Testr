@@ -1,0 +1,12 @@
+{
+    "captcha_service": "2captcha",
+    "captcha_api_key": "a4075c68eef197d276499b220f2fda7d",
+    "invite": "https://discord.com/invite/Q9mXP4hT",
+    "joinDelay": 3000,
+    "useProxies": false,
+    "boost": {
+        "enabled": true,
+        "delay": 3000,
+        "serverId": "1215752104824803419"
+    }
+}
